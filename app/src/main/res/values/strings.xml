@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name" translatable="false">Panda0_1</string>
+    <string name="title_activity_kinematyka">Kinematyka</string>
+    <string name="hintText">costam</string>
+    <string name="menuGlownePowrot">Wybierz dział</string>
+    <string name="title_activity_acceleration_zero">AccelerationZero</string>
+    <string name="opisAzero">Masz podanie ciało/ciała które poruszają sie ze stałą prędkością nie hamują ani nie przyspieszają</string>
+    <string name="jedno_cia_o">Jedno ciało</string>
+    <string name="dwa_cia_a">Dwa ciała</string>
+
+    <string-array name="lengthDimensions">
+        <item>km</item>
+        <item>m</item>
+        <item>mm</item>
+    </string-array>
+</resources>
