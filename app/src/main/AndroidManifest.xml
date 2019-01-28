@@ -22,7 +22,7 @@
             android:label="@string/title_activity_kinematyka"
             android:parentActivityName=".MainActivity" />
         <activity
-            android:name=".AccelerationZero"
+            android:name=".kinematicDataGiven"
             android:label="@string/title_activity_acceleration_zero" />
     </application>
 

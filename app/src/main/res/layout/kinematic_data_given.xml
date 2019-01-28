@@ -11,7 +11,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:minHeight="1000dp"
-        tools:context=".AccelerationZero">
+        tools:context=".kinematicDataGiven">
 
         <TextView
             android:id="@+id/textView"
@@ -97,6 +97,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="36dp"
+            android:onClick="openSolution"
             android:text="oblicz"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
