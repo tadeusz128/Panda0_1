@@ -7,6 +7,8 @@
     <string name="opisAzero">Masz podanie ciało/ciała które poruszają sie ze stałą prędkością nie hamują ani nie przyspieszają</string>
     <string name="jedno_cia_o">Jedno ciało</string>
     <string name="dwa_cia_a">Dwa ciała</string>
+    <string name="Body1">pierwsze ciało</string>
+    <string name="unknown">szukana</string>
 
     <string-array name="lengthDimensions">
         <item>km</item>
